@@ -7,7 +7,9 @@ Currently I am learning and improving my web development skills.
 
 <br/>  
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=social&logo=telegram">
+<a href="https://www.linkedin.com/in/nazar-zhuvaka-35b7792b7/" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 
 
