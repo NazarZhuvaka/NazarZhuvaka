@@ -1,5 +1,13 @@
 ### Hi I'm Nazar 👋  
 
+
+Welcome to my profile! I am a Junior Front-End Developer 👨‍💻 .I have been studying programming for 6 months and I have certain results (you can see them in the repositories) I want to develop in this direction and learn the backend at the same time .  
+
+Currently I am learning and improving my web development skills.  
+  
+
+<br/>  
+
 <a href="https://www.linkedin.com/in/nazar-zhuvaka-35b7792b7/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -11,13 +19,6 @@
 <a href="https://www.linkedin.com/in/nazar-zhuvaka-35b7792b7/" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-Welcome to my profile! I am a Junior Front-End Developer 👨‍💻 .I have been studying programming for 6 months and I have certain results (you can see them in the repositories) I want to develop in this direction and learn the backend at the same time .  
-
-Currently I am learning and improving my web development skills.  
-  
-
-<br/>  
 
 
 
