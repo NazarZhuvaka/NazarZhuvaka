@@ -45,12 +45,15 @@ Angular</ins>
 
 
 ## Github Stats  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazarZhuvaka&theme=dark)
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarZhuvaka&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
-
+<div align="center" style="width: 100%" >
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazarZhuvaka&theme=dark)
+</div>
+
 
   
 
