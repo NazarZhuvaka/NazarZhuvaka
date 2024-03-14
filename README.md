@@ -7,7 +7,8 @@ Currently I am learning and improving my web development skills.
 
 <br/>  
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=social&logo=telegram">
+
 
 
 
