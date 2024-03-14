@@ -5,8 +5,7 @@ Welcome to my profile! I am a Junior Front-End Developer 👨‍💻 .I have bee
 
 Currently I am learning and improving my web development skills.  
   
-
-<br/>  
+  
 
 ##
 
