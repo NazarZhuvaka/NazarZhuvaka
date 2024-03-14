@@ -8,7 +8,7 @@ Welcome to my profile! I am a Junior Front-End Developer 👨‍💻 .I have bee
 Currently I am learning and improving my web development skills.  
   
   
-
+<br/>
 
 
 <a href="https://www.linkedin.com/in/nazar-zhuvaka-35b7792b7/" target="_blank">
