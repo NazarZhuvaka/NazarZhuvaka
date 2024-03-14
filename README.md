@@ -1,6 +1,8 @@
 ### Hi I'm Nazar 👋  
 
-Welcome to my profile! I am a Junior Front-End Developer 👨‍💻 . Currently I ma learning and improving my web development skills .  
+Welcome to my profile! I am a Junior Front-End Developer 👨‍💻 .I have been studying programming for 6 months and I have certain results (you can see them in the repositories) I want to develop in this direction and learn the backend at the same time .  
+
+Currently I am learning and improving my web development skills.  
   
 
 <br/>  
