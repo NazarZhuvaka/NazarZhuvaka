@@ -51,8 +51,14 @@ Angular</ins>
 <br/>  
 
 <div align="center" style="width: 100%" >
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazarZhuvaka&theme=dark)
+<a href="">
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazarZhuvaka&theme=dark)
+
+
 
 
   
