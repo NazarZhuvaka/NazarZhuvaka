@@ -1,7 +1,6 @@
-### <ins>I'm Nazar junior Front-end developer 👨‍💻 
+### Hi I'm Nazar 👋  
 
-I am a Junior Front-End Developer. I have confidence in web development and possess knowledge of HTML, CSS (SCSS), Gulp, JavaScript, React, Vue, and
-Angular</ins>  
+Welcome to my profile! I am a Junior Front-End Developer 👨‍💻 . Currently I ma learning and improving my web development skills .  
   
 
 <br/>  
