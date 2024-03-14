@@ -1,4 +1,4 @@
-### <ins>I'm Nazar, a junior Front-end developer 👨‍💻 
+### <ins>I'm Nazar junior Front-end developer 👨‍💻 
 
 I am a Junior Front-End Developer. I have confidence in web development and possess knowledge of HTML, CSS (SCSS), Gulp, JavaScript, React, Vue, and
 Angular</ins>  
@@ -33,7 +33,7 @@ Angular</ins>
 
 
 ## Connect with me  
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://www.linkedin.com/in/nazar-zhuvaka-35b7792b7/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/iamrishavanand" target="_blank">
