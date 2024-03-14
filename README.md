@@ -23,6 +23,10 @@ Currently I am learning and improving my web development skills.
 <img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://www.linkedin.com/in/nazar-zhuvaka-35b7792b7/" target="_blank">
+<img src=https://img.shields.io/badge/gmail%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+
 
 
 
