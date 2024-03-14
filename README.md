@@ -47,7 +47,6 @@ Currently I am learning and improving my web development skills.
 </a>
 
 <div style="gap: 25px;" >
-</div>
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
@@ -55,6 +54,8 @@ Currently I am learning and improving my web development skills.
 <a href="https://www.linkedin.com/in/nazar-zhuvaka-35b7792b7/" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+</div>
+
 <br/>  
 
 
