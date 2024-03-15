@@ -16,7 +16,7 @@ Currently I am learning and improving my web development skills.
 </a>
 
 <a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%231E77B5.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
 <a href="" target="_blank">
